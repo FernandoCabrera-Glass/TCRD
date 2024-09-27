@@ -20,19 +20,6 @@ En una era marcada por la rapidez y la innovación tecnológica, el Tribunal Con
 
 A continuación, se presentan los proyectos clave que se llevaron a cabo en esta colaboración:
 
-## Síntesis Autónoma: Agilizando la Redacción de Sentencias mediante IA en el Tribunal Constitucional
-
-Se procedió a automatizar el proceso de redacción de sentencias y la creación de resúmenes automáticos, con el objetivo principal de reducir el tiempo necesario para la redacción y, por consiguiente, incrementar la capacidad de emitir un mayor número de sentencias en un periodo determinado.
-
-En la fase de redacción de sentencias, se abordó el proceso en el cual el departamento de secretaría lleva a cabo la redacción manual de las sentencias. Reconociendo la naturaleza manual, repetitiva y de alto consumo temporal de este procedimiento, se determinó la creación de un programa para la generación automatizada de dichas redacciones.
-
-Este programa toma todas las partes que debían ser ingresadas manualmente y las ingresa automáticamente con la información necesaria. Esta, también tiene la capacidad de inspección para que el usuario de secretaria pueda confirmar que toda la información está correcta. Tiene la posibilidad de que si existe algún cambio que hay que realizarse, este se pueda realizar sin interrumpir el proceso.
-
-![enter image description here](https://res.cloudinary.com/djgjgies2/image/upload/v1698730083/Generar_Sentencia_k84cna.png)
-
-En la parte de la eloboración de un resumen automatico, La inteligencia artificial se encarga de leer el contenido completo de la sentencia y, a partir de su comprensión del texto, genera automáticamente un resumen conciso y coherente. Esta automatización no solo acelera el proceso de documentación, sino que también garantiza la consistencia y calidad en
-la elaboración de resúmenes, optimizando la labor de la secretaría y permitiendo un uso más eficiente de los recursos.
-
 
 ## Desarrollo de visualizaciones estadísticas y tableros
 
